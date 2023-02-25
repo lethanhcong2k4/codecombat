@@ -85,8 +85,8 @@ module.exports = nativeDescription: "Tiếng Việt", englishDescription: "Vietn
 #    global_subtitle3: "Teachers"
 #    global_subtitle4: "Countries"
 #    sign_up: "Sign Up"
-#    learner_number: "12 Million"
-#    code_line_number: "1 Billion"
+#    learner_number: "12 Triệu"
+#    code_line_number: "1 Tỉ"
 
   new_home:
     title_coco: "CodeCombat - Chơi game để học Python và JavaScript"
