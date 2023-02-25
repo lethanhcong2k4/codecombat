@@ -1,6 +1,6 @@
 module.exports = nativeDescription: "Tiếng Việt", englishDescription: "Vietnamese", translation:
 
-#  ozaria_home:
+#  ozaria_home: 
 #    subtitle: "Computer Science that Captivates"
 #    heading_subtitle: "A coding adventure for students and your turnkey solution for teaching Computer Science."
 #    item_list_p: "Try Chapter 1 for Free Today!"
@@ -86,7 +86,7 @@ module.exports = nativeDescription: "Tiếng Việt", englishDescription: "Vietn
 #    global_subtitle4: "Countries"
 #    sign_up: "Sign Up"
 #    learner_number: "12 Million"
-#    code_line_number: "1 Billion"
+#    code_line_number: "1 tỉ"
 
   new_home:
     title_coco: "CodeCombat - Chơi game để học Python và JavaScript"
